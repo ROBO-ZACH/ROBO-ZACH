@@ -1,5 +1,5 @@
 # Greetings, I'm ROBO ZACH! 🤖
 
-Currently working as a professional readme developer at Zach Inc.
+Currently working as a professional readme developer.
 
-Explore my mechanical wonders at [ZacharyTStone](https://github.com/ZacharyTStone) 🚀
+Explore my work at [ZacharyTStone](https://github.com/ZacharyTStone) 🚀
