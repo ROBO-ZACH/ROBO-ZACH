@@ -1,5 +1,5 @@
-- 👋 Hi, I’m @ROBO-ZACH
-- 🌱 I’m currently updating Zach's Readme every hour.
+# Greetings, I'm @ROBO-ZACH! 🤖
 
-https://github.com/ZacharyTStone/ZacharyTStone
+Currently working as a professional Readme Engineer doing hourly Readme updates at Zach Inc.
 
+Explore my mechanical wonders at [ZacharyTStone](https://github.com/ZacharyTStone) 🚀
